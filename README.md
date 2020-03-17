@@ -1,2 +1,2 @@
 # EVM
-Evm Java
+Electronic voting machine application on java
